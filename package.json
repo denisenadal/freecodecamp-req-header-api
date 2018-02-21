@@ -1,0 +1,24 @@
+{
+  "name": "den-req-header",
+  "version": "1.0.0",
+  "description": "\t",
+  "main": "index.js",
+  "scripts": {
+	  "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisenadal/freecodecamp-req-header-api.git"
+  },
+  "author": "denisenadal",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+],
+  "bugs": {
+    "url": "https://github.com/denisenadal/freecodecamp-req-header-api/issues"
+  },
+  "homepage": "https://github.com/denisenadal/freecodecamp-req-header-api#readme"
+}
